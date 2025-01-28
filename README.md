@@ -9,8 +9,7 @@ My Social Links:
 I'm a Computer Science student at the moment and I am sailling in the seas of full-stack development. 
 
 
-<div style="display: flex; justify-content: center; gap: 5px;">
-    <p align="center"><img widht="50%" height="100px" src="https://github-readme-stats.vercel.app/api?username=Caioledan&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true">
-    <p align="center"><img widht="50%" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioledan&layout=compact&theme=tokyonight&hide_border=true">
+<div style="display: flex; justify-content: center;">
+    <p align="center"><img widht="50%" height="150px" src="https://github-readme-stats.vercel.app/api?username=Caioledan&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true"><p align="center"><img widht="50%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioledan&layout=compact&theme=tokyonight&hide_border=true">
 
 </div>
