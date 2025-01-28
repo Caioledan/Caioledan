@@ -10,7 +10,7 @@ I'm a Computer Science student at the moment and I am sailling in the seas of fu
 
 
 <div style="display: flex; justify-content: center; gap: 2.5px; ">
-    <a align="center" height="200px" width="40%" ><img src="https://github-readme-stats.vercel.app/api?username=Caioledan&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true"></a>
-    <a align="center" height="200px" width="60%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioledan&layout=compact&theme=tokyonight&hide_border=true"></a>
+    <p align="center" height="200px" width="40%" ><img src="https://github-readme-stats.vercel.app/api?username=Caioledan&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true"></p>
+    <p align="center" height="200px" width="60%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioledan&layout=compact&theme=tokyonight&hide_border=true"></p>
 
 </div>
