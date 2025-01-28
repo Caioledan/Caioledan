@@ -1,5 +1,5 @@
 
-![Banner](./gitgif.gif)
+<p align="center"><img width="80%" alt="Hi there, I'm Caio Lemos" src="./gitgif.gif" /></p>
 
 
 My Social Links:
@@ -8,8 +8,9 @@ My Social Links:
 
 I'm a Computer Science student at the moment and I am sailling in the seas of full-stack development. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Caioledan&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Caioledan&layout=compact&theme=tokyonight&hide_border=true)
+<div style="display: flex; justify-content: center; gap: 5px;">
+    <p align="center"><img widht="50%" height="400px" src="https://github-readme-stats.vercel.app/api?username=Caioledan&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true">
+    <p align="center"><img widht="50%" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caioledan&layout=compact&theme=tokyonight&hide_border=true">
 
-
+</div>
