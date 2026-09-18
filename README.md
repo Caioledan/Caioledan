@@ -8,7 +8,8 @@
 
 <h2 align="center">My Stats:</h2>
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=caioledan)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Caioledan&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Caioledan&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Caioledan&layout=donut&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Caioledan&layout=donut&langs_count=4&theme=dark_github)
 
 
 
